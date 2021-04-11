@@ -1,0 +1,78 @@
+body
+{
+    font-family: 'Shippori Mincho', serif;
+    background-color: greenyellow;
+}
+
+.header
+{
+    background-color: yellowgreen;
+    color: white;
+}
+
+.header img
+{
+    width: 100px;
+}
+
+.main-div
+{
+    background-color: rebeccapurple;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main-div label
+{
+    background-color: sienna;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 20px white;
+}
+
+#camera,#result
+{
+    border: 2px solid whitesmoke;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 20px white;
+}
+
+.button
+{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 20px whitesmoke;
+    border: 1px solid black;
+}
+
+.footer
+{
+    margin-bottom: 50px;
+}
+
+.footer h4
+{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 20px white;
+}
+
+.footer img
+{
+    width: 70px;
+}
+
+.copy-right
+{
+    position: fixed;
+    color: teal;
+    bottom: 0px;
+    width: 100%;
+    background-color: tomato;
+    line-height: 3;
+    text-align: center;
+}
